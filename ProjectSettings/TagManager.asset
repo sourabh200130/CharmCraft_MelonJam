@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Materials
+  - npc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 400611257
+    locked: 0
+  - name: foreground
+    uniqueID: 3629249403
+    locked: 0
+  - name: Player
+    uniqueID: 1328126301
+    locked: 0
+  - name: NPC
+    uniqueID: 1859757619
+    locked: 0
+  - name: materials
+    uniqueID: 2485488819
+    locked: 0
